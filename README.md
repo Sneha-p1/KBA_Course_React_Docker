@@ -1,4 +1,4 @@
-# Blockchain Courses
+# CourseChain
 Welcome to the webpage for Blockchain Courses! A variety of teaching materials concerning blockchain technology and its uses are available on this site.
 ## Project Overview
 This project is a web application designed to showcase various blockchain-related courses. It provides a user-friendly interface for browsing courses, viewing details, and adding courses to a cart. Built using the MERN stack (MongoDB, Express, React, Node.js), the site aims to deliver a smooth and engaging experience for users.
